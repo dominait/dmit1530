@@ -1,4 +1,5 @@
-This web starter kit is a simple framework for building websites. The framework utilizes the following resources.
+# Web Dev Starter Kit
+This web starter kit RoughNeck is a simple framework that you can use to create static sites the old fashioned way. Put together on rig at a time. The framework utilizes the following resources.
 
 
 ## CSS Files
