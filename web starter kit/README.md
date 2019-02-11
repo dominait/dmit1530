@@ -1,6 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This web starter kit is a simple framework for building websites. The framework utilizes the following resources.
 
-## Available Scripts
+
+## CSS Files
+reboot.css [Bootstrap's Reboot](https://getbootstrap.com/docs/4.2/getting-started/download/).
+reset.css [Minireset.css v0.0.4 | MIT License |](https://github.com/jgthms/minireset.css).
+
+
 
 In the project directory, you can run:
 
