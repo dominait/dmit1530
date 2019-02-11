@@ -1,0 +1,21 @@
+.button-large{
+   
+    text-align:center;
+    line-height: 2rem;
+    border-radius: 2rem;;
+    padding: 0.25rem 1.5rem;
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size:1.5rem;
+}
+
+.button-large-blue{
+    @extend .button-large;
+     color:#00a8c9;
+    border: 3px solid #00a8c9;
+}
+.button-large-white{
+  @extend .button-large;
+     color:#fff;
+    border: 3px solid #fff;
+}
