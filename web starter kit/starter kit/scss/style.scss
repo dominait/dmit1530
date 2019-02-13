@@ -1,4 +1,7 @@
-@import "vars";
-@import "mixins/utils";
-@import "typography";
-@import "ui/include"
+@import "vars/index";
+@import "functions/index";
+@import "mixins/index";
+@import "init/index";
+@import "typography/index";
+@import "build/index";
+@import "ui/index";
