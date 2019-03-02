@@ -48,11 +48,11 @@ Optimize Images
 - use image compression services.
 
 Picture Element Fallback for Webp
-<picture>
+```<picture>
   <source srcset="img/awesomeWebPImage.webp" type="image/webp">
   <source srcset="img/creakyOldJPEG.jpg" type="image/jpeg"> 
   <img src="img/creakyOldJPEG.jpg" alt="Alt Text!">
-</picture>
+</picture>```
 
 
 Discusstion How A Browser Renders A Web Page.
