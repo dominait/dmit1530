@@ -1,18 +1,19 @@
 # File Optimizaton Techniques
 
-#### Before You Start Optimization
-* Upload completed assignment 1, to the development server. *
-**Run Chrome Audits from a server not from the desktop.
-**Run Audits in Incognitio window (Chrome Extension can influence the audit results)
-Increaseing Site Performance.
+#### Before You Start
+* Upload completed assignment 1, to the development server.  
+* Run Chrome Audits from a server not from the desktop.
+* Run Audits in Incognitio window (Chrome Extension can influence the audit results)
+
+##### Increaseing Site Performance.
 Using Chrome as your browser open the dev tools and run a page audit. The
 audit will provide you with some very helpful tips on site optimization if 
 you care to click on the read more link that each error provides.
-Audit For
-Performance
-Best Practice
-Accessibility
-Page Speed Test
+   #### Audit For
+    * Performance
+    * Best Practice
+    * Accessibility
+    * Page Speed Test
 https://developers.google.com/speed/pagespeed/insights/
 https://tools.pingdom.com
 https://gtmetrix.com/
