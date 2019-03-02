@@ -15,20 +15,24 @@ you care to click on the read more link that each error provides.
     * Best Practice
     * Accessibility
     * Page Speed Test
-https://developers.google.com/speed/pagespeed/insights/
-https://tools.pingdom.com
-https://gtmetrix.com/
-https://www.webpagetest.org
-Work Through Suggestions for optimization.
+[google page speed test]https://developers.google.com/speed/pagespeed/insights/
+[pingdom]https://tools.pingdom.com
+[dare boost]https://www.dareboost.com
+[gmetrix]https://gtmetrix.com/
+[web page test]https://www.webpagetest.org
+ 
 
 
-Topics
-Using Chrome Dev Tools  
-Running Audits
-Fixing Audits Messages
+#### Topics
+      * Using Chrome Dev Tools  
+      * Running Audits
+      * Fixing Audits Messages
+      * Optimizing Images
+      * Optimizing CSS
+      * HTTP2 Services
 
 
-Image Optimiztion
+### Image Optimiztion
 Using Photoshop
 Photoshop save for web features
 Online Image Compression Tools
@@ -54,7 +58,7 @@ Picture Element Fallback for Webp
 Discusstion How A Browser Renders A Web Page.
 
 
-CSS Optimization.
+### CSS Optimization.
 Dealing with Critical CSS.
 Inline CSS Content.
 CSS-preloading
@@ -63,7 +67,7 @@ Autoprefix.
 Writing efficiant styles
 Refactoring CSS
 CSS Design Patterns BEM OOMCSS
-https://www.keycdn.com/blog/oocss
+[bem-oocss-smacss]https://www.keycdn.com/blog/oocss#oocss-vs-smacss-vs-bem
 CSS Modules
 PostCSS
 cssNext
@@ -71,10 +75,10 @@ CSS Houdini
 
 
 
-Hosting Services
-netlify
-cdn cloudflare.
-digital ocean.
+### Hosting Services
+  * netlify
+  * cdn cloudflare.
+  * digital ocean.
 
 
 
