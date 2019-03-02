@@ -17,9 +17,9 @@ you care to click on the read more link that each error provides.
    #### Page Speed Test
    * [google page speed test](https://developers.google.com/speed/pagespeed/insights/)
    * [pingdom](https://tools.pingdom.com)
-      [dare boost](https://www.dareboost.com)
-      [gmetrix](https://gtmetrix.com/)
-      [web page test](https://www.webpagetest.org)
+   * [dare boost](https://www.dareboost.com)
+   * [gmetrix](https://gtmetrix.com/)
+   * [web page test](https://www.webpagetest.org)
  
 
 
