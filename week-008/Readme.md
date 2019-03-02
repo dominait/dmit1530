@@ -56,7 +56,11 @@ Optimize Images
       </picture>
       ```
 
-
+```javascript
+if (isAwesome){
+  return true
+}
+```
 Discusstion How A Browser Renders A Web Page.
 
 
