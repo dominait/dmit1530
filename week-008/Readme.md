@@ -11,7 +11,7 @@ audit will provide you with some very helpful tips on site optimization if
 you care to click on the read more link that each error provides.
    #### Audit For
     * Performance
-    ** A [link](http://example.com "Title").
+    * * A [link](http://example.com "Title").
     * Best Practice
     * Accessibility
     * Page Speed Test
