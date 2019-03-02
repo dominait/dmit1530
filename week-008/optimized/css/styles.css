@@ -1,0 +1,478 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 100%;
+  position: relative;
+  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'Young Serif'; */
+}
+
+.hidden{
+	display: none;
+}
+
+.center-content {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+body{
+  	height: 100vh;
+ 	background: url(../img/Masthead.png);
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-color: white;
+}
+
+.take-icon{
+	margin-top: 50px;
+	display: flex;
+}
+
+.take-icon p{
+	font-family: 'YoungSerif';
+	font-weight: 900;
+	font-size: 32px;
+	padding-left: 5px;
+	color: white;
+}
+
+.header{
+	color: white;
+	padding-top: 350px;
+}
+
+.header h1{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 100;
+	font-size: 44px;
+	line-height: auto;
+}
+
+.header p{
+  /*font-family: OpenSans(Regular) */
+	font-size: 13px;
+  /*letter spacing: 50*/
+	line-height: 24px;
+	margin-top: 5px;
+}
+
+/* Start Something New */
+
+
+.Intro{
+	margin-top: 520px;
+	height: 304px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	margin-bottom: 90px;
+}
+
+.left-side{
+	width: 570px;
+}
+
+.right-side{
+	width: 570px;
+	margin-top: 156px;
+}
+
+.Intro h1{
+	font-size: 36px;
+	margin-bottom: 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 200;
+}
+
+.Intro p{
+	color: #959595;
+	font-size: 14px;
+	margin-bottom: 20px;
+}
+
+.three-column h3{
+	font-size: 14px;
+	font-weight: 500px;
+	margin-bottom: 10px;
+}
+
+.margin-left{
+	margin-left: 30px;
+}
+
+.no-left{
+	margin-left: 0px;
+}
+
+.margin-right{
+	margin-right: 30px;
+}
+
+/* grid with 4 small boxs and one large box*/
+
+.grid{
+	display: flex;
+	flex-flow: wrap;
+	width: 100%;
+	margin-bottom: 100px;
+}
+
+.small-box{
+	width: 400px;
+	height: 278px;
+	color: white;
+	display: flex;
+	flex-flow: wrap;
+}
+
+.at-a-glance{
+	display: flex;
+	flex-wrap: wrap;
+	height: 100%;
+}
+
+.head{
+	font-size: 30px;
+	font-weight: 100;
+}
+
+.listing-header{
+	margin-left: 48px;
+	margin-right: 40px;
+}
+
+/* Heart SVG */
+
+.heart-icon{
+  text-align: center;
+  font-size: 0.5rem;
+  margin-left: 18rem;
+}
+
+.heart-icon img{
+  width: 1rem;
+}
+
+.heart-icon-long{
+	margin-left: 43rem;
+}
+
+/* Box content */
+
+.same-box{
+	margin-left: 45px;
+}
+
+.head{
+	margin-top: 40px;
+	font-size: 30px;
+}
+
+.paragraph{
+	margin-top: 15px;
+	font-size: 14px;
+	line-height: 1.7;
+}
+
+.para-fix{
+	width: 480px;
+}
+
+/* Bottom half with the arrow with find out more*/
+
+.same-line{
+	display: flex;
+	margin-top: 30px;
+}
+
+.bold-length{
+	width: 300px;
+}
+
+.bold{
+	font-family: YoungSerif;
+	margin-right: 8px;
+	font-weight: bold;
+	font-size: 1rem;
+}
+
+/* background images for grid and more */
+
+.box-picture{
+	background-image: url(../img/Layer6.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.box-largepic{
+	background-image: url(../img/Layer5.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.large-box{
+	width: 800px;
+	height: 278px;
+	color: white;
+}
+
+.fix-line{
+	margin-top: 55px;
+}
+
+.box-pink{
+	background-color: #f5989d;
+}
+
+.box-darkblue{
+	background-color: #615f7d;
+}
+
+.box-green{
+	background-color: #82ca9c;
+}
+
+/* 4 column alignment */
+
+.align-text h2{
+	font-size: 40px;
+	font-weight: 100;
+	margin-bottom: 40px;
+	text-align: left;
+}
+
+.four-column{
+	display: flex;
+	justify-content: space-around;
+}
+
+.four-column h3{
+	font-size: 14px;
+	font-weight: 500px;
+	margin-bottom: 10px;
+	color: #67676d;
+}
+
+.column4{
+	margin-left: 30px;
+}
+
+.column4 p{
+	font-size: 15.1px;
+	color: #959595;
+	margin-bottom: 50px;
+}
+
+/* the drives seat view picture */
+
+.driverpicture{
+	margin-top: 200px;
+	height: 100vh;
+ 	background: url(../img/driverseat.png);
+  	background-repeat: no-repeat;
+  	background-size: cover;
+	color: #ffffff;
+}
+
+.driver-content{
+	margin-left: 350px;
+	padding-top: 490px;
+	width: 500px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.driverpicture h1{
+	font-size: 62px;
+	font-weight: 100;
+	line-height: 1;
+}
+
+.driver-content p{
+	margin-top: 50px;
+}
+
+.same-line p{
+	margin-top: 0;
+}
+
+.hoverdrivepricture a:hover{
+	color: gold;
+}
+
+/* 3 column alignment */
+
+.gray-background{
+	margin-top: 50px;
+	background-color: #f6f7fa;
+	padding-top: 50px;
+}
+
+.gray-background h2{
+	font-size: 38px;
+	font-weight: 100;
+	margin-bottom: 40px;
+}
+
+.three-column{
+	display: flex;
+	justify-content: space-around;
+	color: #192431;
+}
+
+.three-column h3{
+	font-size: 14px;
+	font-weight: 500px;
+	margin-bottom: 10px;
+}
+
+.column3{
+	margin-left: 30px;
+}
+
+.no-left{
+	margin-left: 0px;
+}
+
+.margin-right{
+	margin-right: 30px;
+}
+
+.column3 p{
+	font-size: 15.1px;
+	margin-bottom: 150px;
+}
+
+/* footer */
+
+footer{
+	background-color: #192431;
+}
+
+.footer{
+	padding-top: 130px;
+	height: 380px;
+	color: #ffffff;
+	display: flex;
+	justify-content: space-between;
+}
+
+.get-in-touch{
+	width: 570px;
+}
+
+.get-in-touch h3{
+	margin-bottom: 30px;
+}
+
+.get-in-touch{
+	font-size: 14px;
+}
+
+.get-in-touch2{
+	width: 470px;
+	font-size: 13px;
+}
+
+.stay-in-touch{
+	width: 470px;
+	height: 40px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.stay-in-touch li:first-of-type{
+	margin-right: auto;
+}
+
+.facebook{
+	background-color: #38548f;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	text-align: center;
+  	font-size: 0.5rem;
+	margin-left: 10px;
+}
+
+.facebook img{
+  	width: 8px;
+	margin-top: 7px;
+}
+
+.twitter{
+	background-color: #32cdfb;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+    text-align: center;
+    font-size: 0.5rem;
+	margin-left: 10px;
+}
+
+.twitter img{
+    width: 1rem;
+	margin-left: 2px;
+	margin-top: 7px;
+}
+
+.in{
+	background-color: #2686b9;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+    text-align: center;
+    font-size: 0.5rem;
+	margin-left: 10px;
+}
+
+.in img{
+    width: 1rem;
+	margin-left: 1.8px;
+	margin-top: 6px;
+}
+
+.searchbar{
+	height: 60px;
+	background-color: #ffffff;
+	display: flex;
+	padding-left: 25rem;
+}
+
+.green-check{
+	height: 60px;
+	width: 70px;
+	background-color: #82ca9c;
+}
+
+.green-check i{
+	font-size: 2rem;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.green-check a:hover{
+	color: lime;
+}
+
+a{
+	color: white;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+.get-in-touch2 p{
+	width: 350px;
+	margin-top: 10px;
+	color: #57697f;
+}
