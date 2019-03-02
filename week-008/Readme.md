@@ -1,5 +1,7 @@
-File Optimizaton Techniques
-**Upload completed assignment 1, to the development server.
+#File Optimizaton Techniques
+
+####Before You Start Optimization
+*Upload completed assignment 1, to the development server.*
 **Run Chrome Audits from a server not from the desktop.
 **Run Audits in Incognitio window (Chrome Extension can influence the audit results)
 Increaseing Site Performance.
