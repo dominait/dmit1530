@@ -15,12 +15,11 @@ you care to click on the read more link that each error provides.
     * Best Practice
     * Accessibility
     * Page Speed Test
-[google page speed test](https://developers.google.com/speed/pagespeed/insights/)
-A [link](http://example.com "Title")
-[pingdom](https://tools.pingdom.com)
-[dare boost](https://www.dareboost.com)
-[gmetrix](https://gtmetrix.com/)
-[web page test](https://www.webpagetest.org)
+* [google page speed test](https://developers.google.com/speed/pagespeed/insights/)
+* [pingdom](https://tools.pingdom.com)
+*  [dare boost](https://www.dareboost.com)
+*  [gmetrix](https://gtmetrix.com/)
+* [web page test](https://www.webpagetest.org)
  
 
 
