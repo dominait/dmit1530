@@ -1,17 +1,10 @@
 # File Optimizaton Techniques
 ```html
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
+    <picture>
+        <source srcset="img/awesomeWebPImage.webp" type="image/webp">
+        <source srcset="img/creakyOldJPEG.jpg" type="image/jpeg"> 
+        <img src="img/creakyOldJPEG.jpg" alt="Alt Text!">
+     </picture>
 ```
 #### Before You Start
 * Upload completed assignment 1, to the development server.  
@@ -61,19 +54,9 @@ Optimize Images
 - use image compression services.
 
    ### Picture Element Fallback for Webp
-      ```html
-      <picture>
-        <source srcset="img/awesomeWebPImage.webp" type="image/webp">
-        <source srcset="img/creakyOldJPEG.jpg" type="image/jpeg"> 
-        <img src="img/creakyOldJPEG.jpg" alt="Alt Text!">
-      </picture>
-      ```
+     
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+ 
 Discusstion How A Browser Renders A Web Page.
 
 
