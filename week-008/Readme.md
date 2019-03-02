@@ -48,7 +48,7 @@ Optimize Images
 - use image compression services.
 
    ### Picture Element Fallback for Webp
-      ```
+      ```html
       <picture>
         <source srcset="img/awesomeWebPImage.webp" type="image/webp">
         <source srcset="img/creakyOldJPEG.jpg" type="image/jpeg"> 
