@@ -1,0 +1,43 @@
+.site-nav {
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    background: rgb(244, 244, 244);
+    box-shadow: 0 0 5px 0 rgb(111, 111, 111);
+    color: #a9a9a9;
+    position: relative;
+
+    .list-view {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        width: 1rem;
+    }
+
+    .mobile-settings-icon {
+        width: 8px;
+    }
+
+    .icon-view {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    @media (min-width: 690px) {
+        .list-view {
+            display: flex;
+            justify-content: space-between;
+            max-width: 960px;
+            margin: 0 auto;
+
+            li {
+                margin: 0 1rem;
+            }
+        }
+
+        .icon-view {
+            display: none;
+        }
+    }
+}
