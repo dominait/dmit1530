@@ -9,7 +9,7 @@ One of the quickest and easiest things you can do to speed up your static site s
 <br/>
  Not only does it give you free asset optimization with a click of a button it also give you the option to prerender you pages. Prerendering you pages is something you will definatly want to have turned on especially when developing static sites. You can read more about prerednered pages [here](https://www.netlify.com/docs/prerendering)
 
- [I'm an inline-style link](https://www.google.com)
+ [prerendering pages](https://www.netlify.com/docs/prerendering/)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
