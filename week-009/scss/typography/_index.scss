@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+$base-font-family: -apple-system,
+BlinkMacSystemFont,
+"Segoe UI",
+Roboto,
+"Helvetica Neue",
+Arial,
+sans-serif,
+"Apple Color Emoji",
+"Segoe UI Emoji",
+"Segoe UI Symbol" !default;
+$monospace: SFMono-Regular,
+Menlo,
+Monaco,
+Consolas,
+"Liberation Mono",
+"Courier New",
+monospace !default;
+$heading-font-family: "Noto Sans",
+sans-serif;
+$heading-font-weight: 400;
+$text-color:#444;
+$base-font-size:100%;
+$base-font-weight:400;
+$loud-color:tomato;
+$quiet-color:cornflowerblue;
+
+body {
+    color: $text-color;
+    font-size: $base-font-size;
+    font-family: $base-font-family;
+    font-weight: $base-font-weight;
+    line-height: 1.6;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $heading-font-family;
+    font-weight: $heading-font-weight;
+}
+
+.h1,
+.h2 {
+    line-height: 1.1;
+}
+
+.h3,
+.h4 {
+    line-height: 1.3;
+}
+
+.h1 {
+    font-size: 400%;
+    letter-spacing: -2px;
+}
+
+.h2 {
+    font-size: 250%;
+    letter-spacing: -1px;
+}
+
+.h3 {
+    font-size: 200%;
+}
+
+.h4 {
+    font-size: 180%;
+}
+
+.h5 {
+    font-size: 130%;
+}
+
+/* .fixed {
+    // font-family: $fixed-font-family;
+    // font-size: $fixed-font-size;
+    // line-height: $fixed-line-height;
+}
+ */
+.quiet {
+    color: $quiet-color;
+}
+
+.loud {
+    color: $loud-color;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+    @extend .loud;
+}
+
+.block-margins {
+    margin: 1em 0;
+}
+
+.unordered-list {
+    list-style-type: disc;
+}
+
+.ordered-list {
+    list-style: decimal;
+}
