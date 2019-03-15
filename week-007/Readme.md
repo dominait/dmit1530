@@ -1,91 +1,14 @@
-File Optimizaton Techniques
-Before starting to optimize your site upload the site to your dev server
-we can use sweb2 for this.
-
-Using Chrome as your browser open the dev tools and run a page audit. The
-audit will provide you with some very helpful tips on site optimization if 
-you care to click on the read more link that each error provides.
-Audit For
-Performance
-Best Practice
-Accessibility
-
-Work Through Suggestions for optimization.
-
-
-Optimize Images
-- use proper image format
-- use online compression tools.
-- use image compression services.
-
-Picture Element Fallback for Webp
-<picture>
-  <source srcset="img/awesomeWebPImage.webp" type="image/webp">
-  <source srcset="img/creakyOldJPEG.jpg" type="image/jpeg"> 
-  <img src="img/creakyOldJPEG.jpg" alt="Alt Text!">
-</picture>
-
-Optimize Fonts
-This is worth reading:
-https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization
-
-Optimize CSS
-- inline critical css: https://developers.google.com/web/tools/chrome-devtools/css/reference#coverage
-- minify your css files: https://cssminifier.com/
-- check for unused css: https://www.keycdn.com/blog/remove-unused-css
-
-Opimize HTML
--minifiy
-
-
-Use Modern Hosting Services
-netlify
-cdn cloudflare
-
-
-
-
-
-
-
-Google Analytics Setup
-https://analytics.google.com/analytics/web/provision/?authuser=0#/provision
-
-Github
-https://github.com/join
-
-Netlify Modern Web Hosting Service.
-https://www.netlify.com/
-
-Cloudflare CDN
-https://www.cloudflare.com/en-ca/
-
-Webp Online Tool
-https://webp-converter.com/
-
-
-Online Image Compression
-https://imagecompressor.com/
-https://kraken.io/web-interface
-https://compressjpeg.com/
-https://compressor.io/compress
-
-https://www.webdesignerdepot.com/2018/07/the-best-image-compression-tools-for-the-web/
-https://enviragallery.com/9-best-free-image-optimization-tools-for-image-compression/
-
-Critical Path CSS Tool
-https://www.sitelocity.com/critical-path-css-generator
-
-
-Resources
-https://www.monitis.com/blog/in-review-by-cc-top-10-ways-to-optimize-css-for-faster-websites/
-
-
-Page Speed Test
-https://developers.google.com/speed/pagespeed/insights/
-https://tools.pingdom.com
-https://gtmetrix.com/
-https://www.webpagetest.org
-
+#Deploying Static Sites To Netlify
+One of the quickest and easiest things you can do to speed up your static site speed load time is to serve it via HTTP2. Netlify is an amazing free service that serves your static sites using HTTP2. Not only does it give you this for free but there is a free page but it aslo will:
+* write pretty URL's
+* Bundle CSS in a single file.
+* Minify CSS
+* Bundle JS into a single file.
+* Minify JS
+* Compress images.
+<br/>
+ Not only does it give you free asset optimization with a click of a button it also give you the option to prerender you pages. You can  click here to find out more about preredering [read more](https://www.netlify.com/docs/prerendering/) l 
+ 
+ 
 
 
