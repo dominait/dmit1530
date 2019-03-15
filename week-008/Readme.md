@@ -13,6 +13,7 @@ you care to click on the read more link that each error provides.
     * Performance
     * Best Practice
     * Accessibility
+    * SEO
     
    #### Useful Tools For Checking Site Performance
    * [google page speed test](https://developers.google.com/speed/pagespeed/insights/)
