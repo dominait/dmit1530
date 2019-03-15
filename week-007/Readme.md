@@ -1,4 +1,4 @@
-#Deploying Static Sites To Netlify
+# Deploying Static Sites To Netlify
 One of the quickest and easiest things you can do to speed up your static site speed load time is to serve it via HTTP2. Netlify is an amazing free service that serves your static sites using HTTP2. Not only does it give you this for free but there is a free page but it aslo will:
 * write pretty URL's
 * Bundle CSS in a single file.
