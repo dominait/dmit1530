@@ -20,7 +20,7 @@ One of the quickest and easiest things you can do to speed up your static site s
 
 [You can use numbers for reference-style link definitions][1]
 
-Or leave it empty and use the [link text itself].
+Or leave it empty and use the [here].
 
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 
