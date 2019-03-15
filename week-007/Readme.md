@@ -8,7 +8,7 @@ One of the quickest and easiest things you can do to speed up your static site s
 * Compress images.
 <br/>
  Not only does it give you free asset optimization with a click of a button it also give you the option to prerender you pages. You can  click here to find out more about preredering [read more]
- [read more]: https://www.netlify.com/docs/prerendering/
+ [read more](https://www.netlify.com/docs/prerendering)
  
  
 
