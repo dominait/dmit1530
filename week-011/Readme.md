@@ -1,5 +1,5 @@
 
-# Production Ready Sites 
+# Deployment Checklist
 Lyft beard hot chicken quinoa. Unicorn disrupt VHS literally. Tofu leggings taxidermy ethical cred copper 
 - stylelint
 - prettier
