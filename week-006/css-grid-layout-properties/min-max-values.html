@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>minmax demo</title>
+        <link
+            href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i|Source+Sans+Pro:400,400i,600,600i"
+            rel="stylesheet">
+        <link rel="stylesheet" href="css/template.css" type="text/css" media="all">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+    <!-- 
+    properties
+    min-conent
+    max-content
+    minmax(min, max)
+
+    copy and paste this markup into the header
+    <code class="identifier"><pre>header</pre></code>
+ -->
+
+    <style>
+        body {
+            background: #282c34;
+            padding: 2rem;
+        }
+
+        .grid {
+            border: 5px solid rgba(255, 255, 255, 0.16);
+            background: rgba(255, 255, 255, 0.16);
+            padding: 20px;
+            display: grid;
+            grid-template-columns: auto minmax(150px, 1fr) 150px;
+        }
+    </style>
+
+    <body>
+
+        <div class="grid">
+            <header>
+                <code class="identifier"><pre>header</pre></code>
+                <code class="identifier"><pre>min-content</pre></code>
+                <code class="identifier"><pre>max-content</pre></code>
+                <!-- copy additional markup here for min and max -->
+            </header>
+
+            <nav>
+                <code class="identifier"><pre>nav</pre></code>
+            </nav>
+
+            <main>
+                <code class="identifier"><pre>main</pre></code>
+            </main>
+
+        </div>
+
+
+
+
+
+
+    </body>
+
+</html>
