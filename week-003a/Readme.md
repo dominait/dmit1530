@@ -1,5 +1,5 @@
-## Setting Up A Development Environment
+## Setting Up Workflow
 
-- Setting Up Git Account.
-- Using Netlify Deployment.
-- Intro to site testing.
+1. Creating a git workflow for web.
+1. Organizing your starter framework.
+1. Deploying Git website to Netlify.
