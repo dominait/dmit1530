@@ -1,4 +1,10 @@
-## CSS Layout
+# DMIT1530
+## Review Developer Tooling and Environment Setup
 
-- Flexbox vs Floats
-- CSS concepts Review-
+- CSS concepts Review  
+- HTML best practices review
+- developing workflow make choices that suit you. 
+- selecting and editor  
+- browser dev tools 
+- browser plugins  
+
