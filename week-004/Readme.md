@@ -1,8 +1,10 @@
-## Setting Up Site Typography
+#  Setting Up Site Typography
 
-This week you will learn how to setup typography in your web projects.
 
-- Hosted Fonts Solution
-- System Font Stack.
-- Using @font-face
-- googles prefered usage of fonts for web developers.
+
+1. Hosted Fonts Solution
+1. System Font Stack.
+1. Using @font-face
+1. googles prefered usage of fonts for web developers.
+1. Typographic tools for developers
+1. Typographic scale and rythem.
