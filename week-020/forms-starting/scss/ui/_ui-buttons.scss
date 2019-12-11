@@ -1,0 +1,47 @@
+.button-large {
+
+    text-align: center;
+    line-height: 2rem;
+    border-radius: 2rem;
+    ;
+    padding: 0.25rem 1.5rem;
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: 1.5rem;
+}
+
+.button-large-blue {
+    @extend .button-large;
+    color: #00a8c9;
+    border: 3px solid #00a8c9;
+}
+
+.button-large-white {
+    @extend .button-large;
+    color: #fff;
+    border: 3px solid #fff;
+}
+
+%uibutton {
+    border: none;
+    padding: 0.5rem 1rem;
+    box-shadow: 0 0 8px 0 grey;
+    border-radius: 6px;
+    color: crimson;
+    background: rgb(237, 212, 212);
+
+    &:hover {
+        background: rgb(245, 55, 55);
+    }
+}
+
+
+%small-button {
+    @extend %uibutton;
+    background: rgb(237, 237, 237);
+    color: white;
+    font-size: 0.5rem;
+    padding: 0.125rem 0.5rem;
+    border-radius: 2px;
+    color: #444;
+}

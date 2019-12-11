@@ -1,0 +1,23 @@
+.page-header {
+    padding: calc(2rem + 3vh) 0;
+    background: rgb(249, 60, 39);
+    color: white;
+    text-align: center;
+
+
+    img {
+        max-width: 298px;
+        width: 60%;
+        margin-bottom: 1.5rem;
+    }
+
+    h1 {
+        font-size: calc(20px + 3vw);
+        line-height: calc(20px + 3vw);
+    }
+
+    p {
+        font-size: calc(12px + 1vw);
+        color: rgb(245, 177, 177);
+    }
+}
