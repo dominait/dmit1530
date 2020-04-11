@@ -1,4 +1,4 @@
-# Getting Started With Git
+# Downloading Files From Git
 
 ## Download Files From Git
 
