@@ -1,12 +1,12 @@
-# DMIT1530
+# What The Flexbox Is That
+
 ## Review Developer Tooling and Environment Setup
 
-1. CSS concepts Review  
-1. HTML best practices review
-1. developing workflow make choices that suit you. 
-1. selecting and editor  
-1. browser dev tools 
-1. browser plugins  
-1. css resources
-1. learning resources.
+1. Flexbox
+1. Flex properties
+1. Flex Item Propertis
+1. selecting and editor
 
+## A Jolly Good Read
+
+1. [Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
